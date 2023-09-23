@@ -1,0 +1,119 @@
+vax_facility_id,facility_vax_name,address_vax,city,state,zipcode_id,website_vax,phone_vax
+1,ACCESS Center for Discovery and Learning,5159 S Ashland Ave,Chicago,IL,12,https://www.achn.net,(800) 836-7633
+2,ACCESS Madison,3800 W Madison St,Chicago,IL,27,https://www.achn.net,(800) 836-7633
+3,ACHN at Jorge Prieto Health Center,2424 S Pulaski Rd,Chicago,IL,26,https://cookcountyhealth.org/locations/dr-jorge-prieto-health-center/,(773) 521-0750
+4,Alivio - Western Avenue,2355 S Western Ave,Chicago,IL,11,https://www.aliviomedicalcenter.org/locations/western-avenue,(773) 254-1400
+5,Alivio - Morgan,966 W 21st St,Chicago,IL,11,https://www.aliviomedicalcenter.org/locations/morgan-street,(773) 254-1400
+6,Austin Health Center of Cook County,4800 W Chicago Ave,Chicago,IL,50,https://cookcountyhealth.org/locations/austin-health-center/,(773) 826-9600
+7,Aunt Martha's Community Health Center,3528 E 118th St,Chicago,IL,20,http://auntmarthas.org,(877) 692-8686
+8,"Aunt Martha's Health and Wellness, Inc.",5001 S Michigan Ave,Chicago,IL,18,http://auntmarthas.org,(877) 692-8686
+9,Beloved Community Family Wellness Center,6821 S Halsted St,Chicago,IL,24,https://www.bcfwc.org,(773) 651-3629
+10,Chicago Family Health Center - Pullman,570 E 115th St,Chicago,IL,30,https://chicagofamilyhealth.org/,(773) 768-5000
+11,Chicago Family Health Center - Chicago Lawn,3223 W 63rd St,Chicago,IL,31,https://chicagofamilyhealth.org/,(773) 768-5000
+12,Chicago Family Health Center - East Side,10536 S Ewing Ave,Chicago,IL,20,https://chicagofamilyhealth.org/,(773) 768-5000
+13,Chicago Family Health Center - Roseland,120 W 111th St,Chicago,IL,30,https://chicagofamilyhealth.org/,(773) 768-5000
+14,Christian Community Health Center,9718 S. Halsted,Chicago,IL,30,https://cchc-online.org/,(773) 233-4100
+15,Englewood Health Center of Cook County,1135 W 69th St,Chicago,IL,24,https://cookcountyhealth.org/locations/englewood-health-center/,NULL
+16,Erie Foster Avenue Health Center,2750 W North Ave,Chicago,IL,48,https://www.eriefamilyhealth.org/coronavirus,NULL
+17,Erie West Town Health Center,1701 W Superior St,Chicago,IL,25,https://www.eriefamilyhealth.org/coronavirus,NULL
+18,Esperanza Health Center - Brighton Park,4700 S California Ave,Chicago,IL,34,https://www.esperanzachicago.org/,NULL
+19,Friend Health - Ashland,4802 S Ashland Ave,Chicago,IL,12,https://friendfhc.org/covid.html,NULL
+20,Friend Health - 51st Street,340 E 51st St,Chicago,IL,18,https://friendfhc.org/covid.html,NULL
+21,Friend Health - Cottage Grove,800 E 55th St,Chicago,IL,18,https://friendfhc.org/covid.html,NULL
+22,Friend Health - Pulaski,5635 S Pulaski Rd,Chicago,IL,31,https://friendfhc.org/covid.html,NULL
+23,Friend Health - Western,5843 S Western Ave,Chicago,IL,37,https://friendfhc.org/covid.html,NULL
+24,Friend Health - Woodlawn,1522 E 63rd St,Chicago,IL,38,https://friendfhc.org/covid.html,NULL
+25,Hamdard Center for Health and Human Services,1542 W Devon Ave,Chicago,IL,58,https://hamdardcenter.org,NULL
+26,Heartland Alliance Health - Englewood,5501 S Halsted,Chicago,IL,23,https://www.heartlandalliance.org/heartland-alliance-health/,NULL
+27,Heartland Alliance Health - Uptown,1015 W Lawrence Ave,Chicago,IL,48,https://www.heartlandalliance.org/heartland-alliance-health/,NULL
+28,Howard Brown Health - 63rd St,641 W 63rd St,Chicago,IL,24,https://howardbrown.org,(773) 388-1600
+29,Howard Brown Health - Clark,6500 N Clark St,Chicago,IL,29,https://howardbrown.org,(773) 388-1600
+30,Inner City Muslim Action Network (IMAN),2744 W 63rd St,Chicago,IL,31,https://www.imancentral.org/chicago/health-center/,(773) 434-4626
+31,Innovative Express Care,1111 W Diversey Pkwy,Chicago,IL,17,https://innovativecorona.com/,(773) 270-5600
+32,Lawndale Christian Health Center - Ogden Campus,3860 W Ogden Ave,Chicago,IL,19,https://lawndale.org/covid19,(872) 588-3000
+33,Logan Square Health Center of Cook County,2840 W Fullerton Ave,Chicago,IL,48,https://cookcountyhealth.org/locations/logan-square-health-center/,(773) 395-7400
+34,Loretto Hospital,645 S Central Ave,Chicago,IL,45,http://www.lorettohospital.org,(312) 626-4300
+35,Mariano's Pharmacy 53100507,5353 N Elston Ave,Chicago,IL,32,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+36,Mariano's Pharmacy 53100515,1800 W Lawrence Ave,Chicago,IL,41,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+37,Mariano's Pharmacy 53100516,2112 N Ashland Ave,Chicago,IL,11,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+38,Mariano's Pharmacy 53100520,3145 S Ashland Ave,Chicago,IL,11,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+39,Mariano's Pharmacy 53100522,5201 N Sheridan Rd,Chicago,IL,41,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+40,Mariano's Pharmacy 53100527,2021 W Chicago Ave,Chicago,IL,25,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+41,Mariano's Pharmacy 53100534,1500 N Clybourn Ave,Chicago,IL,13,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+42,Mariano's Pharmacy 53100538,3030 N Broadway St,Chicago,IL,56,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+43,Mariano's Pharmacy 53100539,3857 S Martin Luther King Dr,Chicago,IL,52,https://www.marianos.com/i/coronavirus-update/vaccine,NULL
+44,Mile Square Health Center - Englewood,641 W 63rd St,Chicago,IL,24,https://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center/locations/englewood,(773) 388-1600
+45,Mile Square Health Center - South Shore,7037 S Stony Island Ave,Chicago,IL,49,https://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center/locations/south-shore,(312) 996-2000
+46,Mile Square Health Center UIC - Back of the Yards,4630 S Bishop St,Chicago,IL,12,https://hospital.uillinois.edu/patients-and-visitors/mile-square-federally-qualified-health-center/locations/back-of-the-yards,(312) 996-2000
+47,Near North Health Service Corporation - Komed Holman Health Center,4259 S Berkeley Ave,Chicago,IL,52,https://www.nearnorthhealth.org/,(312) 337-1070
+48,Near North Health Service Corporation - Winfield Moody Health Center,1276 N Clybourn Ave,Chicago,IL,13,https://www.nearnorthhealth.org/,(312) 337-1073
+49,Norwegian American Hospital,1044 N Francisco Ave,Chicago,IL,51,https://www.nahospital.org/,(773) 292-8363
+50,Oak Street Health Ashburn,3348 W 87th St,Chicago,IL,20,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+51,Oak Street Health Avalon Park,1715 E 95th St,Chicago,IL,34,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+52,Oak Street Health Brighton Park,4327 S Archer Ave,Chicago,IL,12,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+53,Oak Street Health Bronzeville,4318 S State St,Chicago,IL,58,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+54,Oak Street Health Edgewater,1541 W Devon Ave,Chicago,IL,40,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+55,Oak Street Health Hermosa,4417 W Diversey Ave,Chicago,IL,26,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+56,Oak Street Health Little Village,3010 W 26th St,Chicago,IL,27,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+57,Oak Street Health Madison Street,3433 W Madison St,Chicago,IL,42,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+58,Oak Street Health Portage Park,4848 W Irving Park Rd,Chicago,IL,42,https://www.oakstreethealth.com/covid-19-vaccine,773-209-5333
+59,"PCC at Healthcare Alternative Systems, Inc.",4534 S Western Ave,Chicago,IL,12,https://www.pccwellness.org/covid-19,NULL
+60,PCC Community Wellness Center at Steinmetz,3030 N Mobile Ave,Chicago,IL,36,https://www.pccwellness.org/covid-19,NULL
+61,PCC Parkside Family Health Center,115 N Parkside Ave,Chicago,IL,45,https://www.pccwellness.org/covid-19,NULL
+62,PCC Wellness at West Suburban Hospital,1 Erie Ct,Chicago,IL,1,https://www.pccwellness.org/covid-19,NULL
+63,PCC West Town Family Health Center,1044 N Mozart St,Chicago,IL,25,https://www.pccwellness.org/covid-19,NULL
+64,PCC Community Wellness Center - Austin,5425 W Lake St,Chicago,IL,45,https://www.pccwellness.org/covid-19,(773) 295-3347
+65,PCC Community Wellness Center - Salud,5359 W Fullerton Ave,Chicago,IL,40,https://www.pccwellness.org/covid-19,(773) 295-3347
+66,Primecare Fullerton Health Center,3924 W Fullerton Ave,Chicago,IL,48,https://primecarehealth.org/,NULL
+67,Primecare Portage Park,5635 W Belmont Ave,Chicago,IL,36,https://primecarehealth.org/,NULL
+68,Primecare West Town,1431 N Western Ave,Chicago,IL,25,https://primecarehealth.org/,NULL
+69,Primecare Wicker Park Health Center,1127 N Oakley Blvd,Chicago,IL,25,https://primecarehealth.org/,NULL
+70,Primecare Young Family Health Center,1431 N Western Ave,Chicago,IL,25,https://primecarehealth.org/,NULL
+71,Roseland Community Hospital,45 W 111th St,Chicago,IL,30,http://www.roselandhospital.org/,(773) 995-3000
+72,Rush University Medical Center,1620 W Harrison St,Chicago,IL,15,https://www.rush.edu/patients-visitors/covid-19-resources/covid-19-vaccines,(888) 352-7874
+73,Ruth M. Rothstein Core Center,2020 W Harrison St,Chicago,IL,15,https://cookcountyhealth.org/locations/ruth-m-rothstein-core-center/,(312) 572-4500
+74,Saint Anthony Hospital,2875 W 19th St,Chicago,IL,26,https://sahchicago.org/hospital-services/infection-prevention,(773) 484-4000
+75,"Swedish Hospital, Part of Northshore",5140 N California Ave,Chicago,IL,28,https://www.swedishcovenant.org/covid/covid-19-vaccine,NULL
+76,"TCA Health, Inc.",1029 E 130th St,Chicago,IL,30,http://tcahealth.org,(773) 995-6300
+77,Walgreens Store #178,740 W Diversey Pkwy,Chicago,IL,17,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+78,Walgreens Store #1417,1931 W Cermak Rd,Chicago,IL,11,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+79,Walgreens Store #2211,5036 S Cottage Grove Ave,Chicago,IL,18,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+80,Walgreens Store #2387,1616 E 87th St,Chicago,IL,20,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+81,Walgreens Store #2586,2301 W Irving Park Rd,Chicago,IL,21,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+82,Walgreens Store #2711,7150 W Archer Ave,Chicago,IL,39,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+83,Walgreens Store #2840,1500 W Wilson Ave,Chicago,IL,41,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+84,Walgreens Store #2877,2440 W North Ave,Chicago,IL,48,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+85,Walgreens Store #2903,5222 W Madison St,Chicago,IL,45,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+86,Walgreens Store #3072,641 N Clark St,Chicago,IL,53,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+87,Walgreens Store #3074,4700 S Halsted St,Chicago,IL,12,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+88,Walgreens Store #3321,5874 S Archer Ave,Chicago,IL,39,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+89,Walgreens Store #3395,3401 W Roosevelt Rd,Chicago,IL,27,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+90,Walgreens Store #3539,11 E 75th St,Chicago,IL,22,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+91,Walgreens Store #3949,3046 N Halsted St,Chicago,IL,56,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+92,Walgreens Store #3950,4343 N Kedzie Ave,Chicago,IL,21,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+93,Walgreens Store #3961,2340 W Madison St,Chicago,IL,15,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+94,Walgreens Store #4147,1546 N Central Ave,Chicago,IL,50,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+95,Walgreens Store #4233,5600 W Fullerton Ave,Chicago,IL,40,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+96,Walgreens Store #4349,201 W Madison St,Chicago,IL,9,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+97,Walgreens Store #4519,1320 E 47th St,Chicago,IL,52,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+98,Walgreens Store #4752,316 W Cermak Rd,Chicago,IL,19,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+99,Walgreens Store #4936,4040 N Cicero Ave,Chicago,IL,42,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+100,Walgreens Store #5057,3153 W Irving Park Rd,Chicago,IL,21,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+101,Walgreens Store #5192,9148 S Commercial Ave,Chicago,IL,20,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+102,Walgreens Store #5234,5435 S Kedzie Ave,Chicago,IL,34,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+103,Walgreens Store #6641,1614 W 47th St,Chicago,IL,12,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+104,Walgreens Store #10558,250 S Wacker Dr,Chicago,IL,9,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+105,Walgreens Store #1173,1520 W Fullerton Ave,Chicago,IL,17,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+106,Walgreens Store #12304,2744 N California Ave,Chicago,IL,48,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+107,Walgreens Store #15065,1601 N Milwaukee Ave,Chicago,IL,48,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+108,Walgreens Store #15196,151 N State St,Chicago,IL,4,https://www.walgreens.com/topic/promotion/covid-vaccine.jsp,NULL
+109,Walmart Store #3110,7535 S Ashland Ave,Chicago,IL,23,https://www.walmart.com/cp/1228302,NULL
+110,Walmart Store #3166,4720 S Cottage Grove Ave,Chicago,IL,18,https://www.walmart.com/cp/1228302,NULL
+111,Walmart Store #5402,4650 W North Ave,Chicago,IL,40,https://www.walmart.com/cp/1228302,NULL
+112,Walmart Store #5617,4626 W Diversey Ave,Chicago,IL,40,https://www.walmart.com/cp/1228302,NULL
+113,Walmart Store #5645,2844 N Broadway St,Chicago,IL,56,https://www.walmart.com/cp/1228302,NULL
+114,Walmart Store #5646,2551 W Cermak Rd,Chicago,IL,11,https://www.walmart.com/cp/1228302,NULL
+115,Walmart Store #5781,8331 S Stewart Ave,Chicago,IL,23,https://www.walmart.com/cp/1228302,NULL
+116,Walmart Store #5965,10900 S Doty Ave,Chicago,IL,30,https://www.walmart.com/cp/1228302,NULL
+117,Rush University Medical Center,1653 W Congress Pkwy,Chicago,IL,15,https://www.rush.edu/patients-visitors/covid-19-resources/covid-19-vaccines/schedule-covid-19-vaccination,NULL
+118,UI Health - UIC Credit Union 1 Arena,525 S Racine Ave,Chicago,Il,10,https://hospital.uillinois.edu/primary-and-specialty-care/infectious-diseases/covid-19-coronavirus/vaccine,NULL
