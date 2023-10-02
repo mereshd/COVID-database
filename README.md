@@ -9,6 +9,7 @@ We sourced publicly available datasets from the city of Chicago, focusing on cas
 3) The in-depth documentation of the project's progression, presentation, and video demo can be found in the `http://coviddatabase/Document&Slides&Video/` directory
 4) The Tableau visualizations are in the `COVID-database/Tableau Visualizations/` directory
 5) The final Entity-Relationship Diagram(ERD) is in the `COVID-database/Model/` directory. Its image can be found below:
+   
    ![Entity-Relationship Diagram](https://github.com/mereshd/COVID-database/blob/main/Model/Final_Model.png?raw=true)
 
 ## Tech Stack
